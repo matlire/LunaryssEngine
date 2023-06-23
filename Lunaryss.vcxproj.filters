@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="Object2D.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="Point2D.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="Points2D.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="Ray.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Camera.h">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Object2D.h">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Point2D.h">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Points2D.h">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Ray.h">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="settings.h">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="openal32.dll">
+      <Filter>SFML</Filter>
+    </None>
+    <None Include="sfml-audio-2.dll">
+      <Filter>SFML</Filter>
+    </None>
+    <None Include="sfml-audio-d-2.dll">
+      <Filter>SFML</Filter>
+    </None>
+    <None Include="sfml-graphics-2.dll">
+      <Filter>SFML</Filter>
+    </None>
+    <None Include="sfml-graphics-d-2.dll">
+      <Filter>SFML</Filter>
+    </None>
+    <None Include="sfml-network-2.dll">
+      <Filter>SFML</Filter>
+    </None>
+    <None Include="sfml-network-d-2.dll">
+      <Filter>SFML</Filter>
+    </None>
+    <None Include="sfml-system-2.dll">
+      <Filter>SFML</Filter>
+    </None>
+    <None Include="sfml-system-d-2.dll">
+      <Filter>SFML</Filter>
+    </None>
+    <None Include="sfml-window-2.dll">
+      <Filter>SFML</Filter>
+    </None>
+    <None Include="sfml-window-d-2.dll">
+      <Filter>SFML</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="HeaderFiles">
+      <UniqueIdentifier>{eeff0352-5c89-4fea-9b1b-c532cab2736f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts">
+      <UniqueIdentifier>{dfca9e55-5fa2-4837-98fb-a01eea6fccad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SFML">
+      <UniqueIdentifier>{25c23ee9-4ea0-45dc-bcee-00ab6ce71fa3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
