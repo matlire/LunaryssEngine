@@ -11,6 +11,8 @@ A, D - Поворот головы налево/направо
 
 M    - Миникарта
 
+
+
 Controlls:
 
 W, S - Moving forward/backward
