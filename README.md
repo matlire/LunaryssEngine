@@ -1,16 +1,5 @@
 # LunaryssEngine
-LunaryssEngine - opensource движок для разработки псевдо 3д игр (наподобие wolfenstein 1, doom 1, doom 2). Движок полностью написан на c++ и на данный момет находится в ранней стадии разработке.
-
 LunaryssEngine - opensource game engine for developming pseudo 3d games (like wolfenstein 1, doom 1, doom 2). Engine is fully made with c++ and today is in early development.
-
-Управление:
-
-W, S - Передвижение вперёд/назад
-
-A, D - Поворот головы налево/направо
-
-M    - Миникарта
-
 
 
 Controlls:
