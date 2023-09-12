@@ -11,7 +11,7 @@ A, D - Rotating left/right
 M    - Minimap
 
 
-Скриншоты/Screenshots:
+Screenshots:
 
 ![image](https://github.com/matlire/LunaryssEngine/assets/137503385/0565b4df-9ec4-4f60-8167-04ad484c8b8e)
 ![image](https://github.com/matlire/LunaryssEngine/assets/137503385/bcc605c1-5f9a-4447-b504-830f59b4dcbb)
